@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yt-app/static/css/main.03c6ca28.chunk.css",
+    "main.js": "/yt-app/static/js/main.db96e39e.chunk.js",
+    "main.js.map": "/yt-app/static/js/main.db96e39e.chunk.js.map",
+    "runtime-main.js": "/yt-app/static/js/runtime-main.63c215d9.js",
+    "runtime-main.js.map": "/yt-app/static/js/runtime-main.63c215d9.js.map",
+    "static/js/2.39511dac.chunk.js": "/yt-app/static/js/2.39511dac.chunk.js",
+    "static/js/2.39511dac.chunk.js.map": "/yt-app/static/js/2.39511dac.chunk.js.map",
+    "index.html": "/yt-app/index.html",
+    "precache-manifest.9bcb8018312b81ddd14cb2b4a290f406.js": "/yt-app/precache-manifest.9bcb8018312b81ddd14cb2b4a290f406.js",
+    "service-worker.js": "/yt-app/service-worker.js",
+    "static/css/main.03c6ca28.chunk.css.map": "/yt-app/static/css/main.03c6ca28.chunk.css.map",
+    "static/js/2.39511dac.chunk.js.LICENSE.txt": "/yt-app/static/js/2.39511dac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63c215d9.js",
+    "static/js/2.39511dac.chunk.js",
+    "static/css/main.03c6ca28.chunk.css",
+    "static/js/main.db96e39e.chunk.js"
+  ]
+}
